@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 ## Introduction
 
 This assignment uses data from
